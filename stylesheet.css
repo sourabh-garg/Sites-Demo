@@ -1,0 +1,76 @@
+body{
+
+background-color: #3e4049;
+
+	}.container-fluid:{
+
+	background-color: #3d4141;
+
+}
+
+#header{
+
+	background-color: #303239;
+	height: 60px;	
+}
+
+
+.icon{
+	margin-top: 12px;
+	font-size: 25px;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+.icon a{
+
+
+	color: #a5a7ac;
+	
+}
+
+.background{
+
+
+    margin-top: 90px;
+    background-image:url('background/bg.svg');
+    background-repeat:no-repeat;
+    height: 1500px;
+    margin-left: -450px;
+    padding-top: 30px;
+    
+}
+
+.box1{
+position: relative;
+padding-top: 20px;
+height: 300px;
+width: 500px;
+background-color: #CF4858;
+margin-left: 600px;
+border-radius: 5px;
+
+}
+
+.box2{
+position: relative;
+margin-top: -200px;
+float: right;
+height: 130px;
+width: 180px;
+background-color: #ee5c42;
+margin-right: 270px;
+border-radius: 5px;
+
+}
+
+.box3{
+position: relative;
+margin-top: -40px;
+float: right;
+height: 130px;
+width: 230px;
+background-color: #056a87;
+margin-right: 320px;
+border-radius: 5px;
+
+}
